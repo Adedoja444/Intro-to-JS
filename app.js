@@ -152,3 +152,8 @@ function herFunction(a, b) {
 }
 
 console.log(herFunction)
+
+
+let d = newDate()
+d.getDate();
+console.log(d)
